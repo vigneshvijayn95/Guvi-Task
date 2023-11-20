@@ -1,0 +1,25 @@
+IP Address;(Internet Protocal)
+
+Internrt Protocal is the unique identificcation number assigned to every device connected to the internet.an
+IP address definition is a numeric label assigned to the deices that use the internet to communicate.
+
+
+Working of IP Address:
+1.Your device directly requests your internet service provider which the grants your device access to the web.
+2.And an IP Address is assigned to your device from the given range available.
+3.Your IP address can change. For example, turning your router on or off can change your IP Address.
+
+Types of IP Address: 
+Public, private, static and dynamic
+
+
+
+Port: 
+A port is a virtual point where network connections start and end. Ports are software-based and managed 
+by a computer's operating system. Each port is associated with a specific process or service. Ports allow
+computers to easily differentiate between different kinds of traffic: emails go to a different port than
+webpages, for instance, even though both reach a computer over the same Internet connection.
+
+
+
+

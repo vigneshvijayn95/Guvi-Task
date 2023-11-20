@@ -1,0 +1,30 @@
+HTTP- Hypertext Transfer Protocal
+
+1. It is the bassis for almost all the web applications.
+2. HTTP is the method computer and servers use to request and send information.
+3.For example when someone use AMAZON.COM on their laptop, their browser sends an HTTP
+request to AMAZON.COM servers for the contents appers on the page.
+4. There is two types in HTTP HTTP/1 and HTTP/2
+
+HTTP/1;
+*First usable version of HTTPS was craeted on 1997. it wents to seevral stages of development
+this first version called HTTP/1.1
+
+HTTP/2
+*In 2015, new version HTTP called HTTP/2 was created,and It is much better and faster more4 efficient 
+than HTTP/1.
+
+
+
+Diffrence:
+            HTTP/1                                               HTT/2
+ 1.It works on the textual format                    1.It works on bninary protocal     
+
+ 2.It compresses data by itself                      2.It uses HPACK for data compression
+
+ 3.There is head of line blocking that blocks        3.It allows multiplexing so one TCP connection is 
+ all the requests behind it until it doesn't get       required for mutiple requests.
+ 
+ its all the resources  
+ 4.It uses requests resource inlining for use        4.It uses PUSH frame by server that collects all
+ getting multiple pages.                               Multiple pages.
